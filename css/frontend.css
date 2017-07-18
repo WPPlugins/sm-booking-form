@@ -1,0 +1,64 @@
+.hide {
+display:none;
+}
+
+.mousePointer {
+cursor:hand;
+}
+
+#itemDetails #subHeading {
+font-weight:bold;
+background-color: #dfdfdf;
+border:1px solid #E6E6E6;
+padding:2px;
+cursor:default;
+}
+
+#itemDetails {
+border:1px solid #E6E6E6;
+padding:5px;
+margin:5px;
+display:none;
+}
+
+.span-5, .span-10, .span-15, .span-21 {
+text-align:left;
+}
+
+.last, div.last {margin-right:0;}
+.span-5 {width:35%;}
+.span-10 {width:55%;}
+.span-15 {width:100%;}
+.span-21 {width:100%;}
+
+#sm_booking_form_form  input,
+#sm_booking_form_form  select{
+border:1px solid #ccc;
+}
+
+.sm_required_fields {
+background-color:#FFE9CF;
+}
+
+.sm_form_notify_default {
+color:#009900;
+}
+
+.sm_form_notify {
+font-family:tahoma;
+background:#FFE9CF url(images/form_alert_arrow.png) no-repeat left;
+color:#FF0000;
+padding:0 5px 1px 15px;
+margin-left: 5px;
+cursor:default;
+}
+
+#sm_submit {
+border:1px solid #009900;
+padding:5px;
+margin-top:15px;
+}
+
+#sm_error_count {
+color:#800000;
+}
